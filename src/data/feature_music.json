@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "title": "Lofi Chill Beats",
+      "pricing": {
+        "currency": "USD",
+        "amount": 9.99
+      },
+      "isFeatured": true,
+      "description": "Relaxing lofi beats perfect for studying or chilling.",
+      "author": "DJ Calm",
+      "imageUrl": "https://example.com/images/lofi-chill-beats.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Lofi Chill Beats",
+      "pricing": {
+        "currency": "USD",
+        "amount": 9.99
+      },
+      "isFeatured": true,
+      "description": "Relaxing lofi beats perfect for studying or chilling.",
+      "author": "DJ Calm",
+      "imageUrl": "https://example.com/images/lofi-chill-beats.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Lofi Chill Beats",
+      "pricing": {
+        "currency": "USD",
+        "amount": 9.99
+      },
+      "isFeatured": true,
+      "description": "Relaxing lofi beats perfect for studying or chilling.",
+      "author": "DJ Calm",
+      "imageUrl": "https://example.com/images/lofi-chill-beats.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Upbeat Pop Hits",
+      "pricing": {
+        "currency": "USD",
+        "amount": 12.99
+      },
+      "isFeatured": false,
+      "description": "A collection of the latest upbeat pop songs.",
+      "author": "Pop Masters",
+      "imageUrl": "https://example.com/images/upbeat-pop-hits.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Classical Essentials",
+      "pricing": {
+        "currency": "USD",
+        "amount": 7.99
+      },
+      "isFeatured": true,
+      "description": "Timeless classical music pieces from renowned composers.",
+      "author": "Orchestra Classics",
+      "imageUrl": "https://example.com/images/classical-essentials.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Rock Anthems",
+      "pricing": {
+        "currency": "USD",
+        "amount": 14.99
+      },
+      "isFeatured": false,
+      "description": "Iconic rock anthems that defined a generation.",
+      "author": "Rock Legends",
+      "imageUrl": "https://example.com/images/rock-anthems.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Jazz Vibes",
+      "pricing": {
+        "currency": "USD",
+        "amount": 8.99
+      },
+      "isFeatured": false,
+      "description": "Smooth jazz tracks to set the mood.",
+      "author": "Smooth Jazz Collective",
+      "imageUrl": "https://example.com/images/jazz-vibes.jpg"
+    }
+  ]
+  
