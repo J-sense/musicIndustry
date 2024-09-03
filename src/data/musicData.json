@@ -1,0 +1,63 @@
+// {const coursesData = [
+//     {
+//       "id": 1,
+//       "title": "Music Production Masterclass",
+//       "slug": "music-production-masterclass",
+//       "description": "Learn the fundamentals of music production, mixing, and mastering with industry-standard tools.",
+//       "price": 149.99,
+//       "instructor": "John Doe",
+//       "isFeature": true,
+//       "image": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+//     },
+//     {
+//       "id": 2,
+//       "title": "Songwriting for Beginners",
+//       "slug": "songwriting-for-beginners",
+//       "description": "Explore the basics of songwriting, including structure, melody, and lyrics.",
+//       "price": 89.99,
+//       "instructor": "Jane Smith",
+//       "isFeature": false,
+//       "image": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+//     },
+//     {
+//       "id": 3,
+//       "title": "Advanced Music Theory",
+//       "slug": "advanced-music-theory",
+//       "description": "Deep dive into complex music theory concepts to enhance your compositional skills.",
+//       "price": 199.99,
+//       "instructor": "Emily Johnson",
+//       "isFeature": true,
+//       "image": "https://images.unsplash.com/photo-1504280390366-861f69278e5f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+//     },
+//     {
+//       "id": 4,
+//       "title": "DJing and Live Performance",
+//       "slug": "djing-and-live-performance",
+//       "description": "Master the art of DJing and performing live with professional equipment.",
+//       "price": 129.99,
+//       "instructor": "Chris Lee",
+//       "isFeature": false,
+//       "image": "https://images.unsplash.com/photo-1505705694340-ef35f43d32da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+//     },
+//     {
+//       "id": 5,
+//       "title": "Music Business 101",
+//       "slug": "music-business-101",
+//       "description": "Understand the business side of the music industry, including contracts, marketing, and revenue streams.",
+//       "price": 99.99,
+//       "instructor": "Michael Brown",
+//       "isFeature": true,
+//       "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+//     },
+//     {
+//       "id": 6,
+//       "title": "Vocal Training and Techniques",
+//       "slug": "vocal-training-and-techniques",
+//       "description": "Enhance your vocal skills with professional techniques and exercises.",
+//       "price": 119.99,
+//       "instructor": "Sarah Davis",
+//       "isFeature": false,
+//       "image": "https://images.unsplash.com/photo-1514809811691-8d2a8ea2db3d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+//     }
+//   ]} 
+  
