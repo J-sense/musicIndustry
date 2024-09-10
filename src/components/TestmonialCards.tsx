@@ -49,7 +49,7 @@ const TestmonialCards = () => {
   return (
     <> 
     <div className='h-[35rem] w-full dark:bg-black dark:bg-grid-white/[0.2] relative flex flex-col items-center justify-center overflow-hidden '>
-    <h2 className=' text-3xl md:text-5xl text-white font-semibold tracking-tight '>Here our Hermony :voice of success </h2>
+    <h2 className=' text-xl md:text-5xl text-white font-semibold tracking-tight '>Here our Hermony :voice of success </h2>
     <div className="h-[20rem] rounded-md flex flex-col antialiaseditems-center justify-center relative overflow-hidden">
     <InfiniteMovingCards
       items={testimonials}

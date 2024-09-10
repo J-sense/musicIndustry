@@ -33,7 +33,7 @@ const Feature = () => {
             
        
         </div>
-        <div className="mt-20 text-center">
+        <div className="mt-20 text-center mb-10">
           <Link href={"/courses"} className='border border-purple-400 round px-5 rounded-full py-4'>
           explore courses</Link>
         </div>
